@@ -9,4 +9,4 @@ namespace: goapp
 images:
 - name: goapp
   newName: mushthielv/argocd
-  newTag: 650efa1bfa7177fda285eb8c24a93cc4b3d5255a
+  newTag: 7fb8a941c51a9ed7e3450be24b68b1a24cacab8c
